@@ -1,0 +1,204 @@
+{
+  "basics": {
+    "name": "Carlos Daniel Hernández Rodríguez",
+    "label": "Ruby on Rails Web Developer",
+    "picture": "http://127.0.0.1:5500/resume/carlos-daniel/foto.png",
+    "image": "foto.png",
+    "email": "a20160383@gmail.com",
+    "phone": "(314) 100-4970",
+    "website": "https://www.linkedin.com/in/cadahr",
+    "summary": "I am a positive, creative and self-taught person who is passionate about contributing assistance with my knowledge and skills, as well as gaining experience for my professional training and contributing to society.",
+    "location": {
+      "address": "República de Uruguay 2156, Andares del Jazmín",
+      "postalCode": "28047",
+      "city": "Colima",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "_Carlinux",
+        "url": "twitter.com/_Carlinux?s=08"
+      },
+      {
+        "network": "Github",
+        "username": "carlozdaniel",
+        "url": "https://github.com/carlozdaniel"
+      },
+      {
+        "network": "Linkedin",
+        "username": "cadahr",
+        "url": "https://www.linkedin.com/in/cadahr"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Tecnocible",
+      "position": "Intern",
+      "website": "www.tecnocible.com/",
+      "startDate": "2018-03-01",
+      "endDate": "2018-08-01",
+      "summary": "I did my TSU internship at the company Tecnocible for 4 months. I had the opportunity to develop a project that solved the problem of a newspaper company in the city of Colima. I made use of technologies such as PHP, MySQL, JQuery, JavaScript and Bootstrap. In this company, we apply the agile Scrum methodology for project delivery.",
+      "highlights": [
+        "Started working on my first real project with a client, working on a company."
+      ]
+    },
+    {
+      "company": "Magsan Motors",
+      "position": "Project manager",
+      "website": "www.magsanmotors.com/",
+      "startDate": "2018-10-01",
+      "endDate": "2019-11-01",
+      "summary": "In the company MAGSAN MOTORS, I worked 9 months as project leader, I also participated in the development of an operating system of an electric car, using technologies such as Java and different types of sensors, in this project also Scrum methodology was implemented.",
+      "highlights": [
+        "I worked, for the first time, as project manager and as developer simultaneously."
+      ]
+    },
+    {
+      "organization": "BrightCoders Academy",
+      "position": "Web Developer",
+      "website": "https://www.brightcoders.com/",
+      "startDate": "2020-01-13",
+      "endDate": "2020-06-13",
+      "summary": "I worked on developing a web application for the  'Donadores Compulsivos' association, using technologies such as Ruby On rails, Sass, Javascript, Git and GitHub as well as working on testing using rspec and capybara."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica De Manzanillo",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2016-08-01",
+      "endDate": "2020-06-01",
+      "gpa": "9.2"
+    }
+  ],
+  "awards": [
+    {
+      "title": "software ingenier",
+      "date": "2020-06-01",
+      "awarder": "Universidad Tecnológica De Manzanillo",
+      "summary": "There is no spoon."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Competent",
+      "keywords": ["HTML", "CSS", "Javascript", "Bootstrap"]
+    },
+    {
+      "name": "Ruby",
+      "level": "Competent",
+      "keywords": ["Ruby"]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Competent",
+      "keywords": [
+        "Ruby on Rails",
+        "postgresql",
+        "Rspec",
+        "Capybara",
+        "postgresql",
+        "sidekiq"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Competent",
+      "keywords": ["Laravel", "Codeigniter"]
+    },
+    {
+      "name": "Laravel",
+      "level": "Competent",
+      "keywords": ["Laravel"]
+    },
+    {
+      "name": "GNU/Linux",
+      "level": "Proficient",
+      "keywords": ["GNU/Linux", "Linux", "free software"]
+    },
+    {
+      "name": "SQL",
+      "level": "Competent",
+      "keywords": ["SQL", "MySQL", "Database"]
+    },
+    {
+      "name": "React",
+      "level": "Advanced Beginner",
+      "keywords": ["React", "Web development"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Advanced Beginner",
+      "keywords": ["Node.js"]
+    },
+    {
+      "name": "Git",
+      "level": "Competent",
+      "keywords": ["Git", "GitHub", "gitlab"]
+    },
+    {
+      "name": "Java",
+      "level": "Competent",
+      "keywords": ["Java"]
+    },
+    {
+      "name": "Posmant",
+      "level": "Novice",
+      "keywords": ["Posmant"]
+    },
+    {
+      "name": "Heroku",
+      "level": "Advanced Beginner",
+      "keywords": ["Heroku"]
+    }
+  ],
+  "softskills": [
+    {
+      "name": "Communication",
+      "level": "Acquired"
+    },
+    {
+      "name": "Problem resolution",
+      "level": "Acquired"
+    },
+    {
+      "name": "Creative",
+      "level": "Acquired"
+    },
+    {
+      "name": "Responsibility in decision making",
+      "level": "Acquired"
+    },
+    {
+      "name": "Determination",
+      "level": "Acquired"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Novice"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Developer communities",
+      "keywords": [
+        "Katas",
+        "Open Source",
+        "Computer Security ",
+        "Contributions",
+        "free software"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["skateboarding", "skimboarding"]
+    }
+  ]
+}
